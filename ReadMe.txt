@@ -14,4 +14,4 @@ $cmake ..
 $make 
 
 #run simulation
-$./sim
+$./project
